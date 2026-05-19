@@ -1,0 +1,5 @@
+# PrismV3
+.DS_Store
+.claude/plans/handoff-*.md
+.claude/memory/decisions.md
+.claude/memory/scratchpad.md
